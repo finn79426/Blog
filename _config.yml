@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: 'Blog | 小曹'
 description: "Welcome to howpwn's blog：分享我在技術上的心得、生活上的思考"
-keyword: '曹富翔, 小曹, howpwn, howpwn blog, 安全, Pwn, Pentest, Web'
+keyword: '曹富翔, 小曹, howpwn, howpwn blog, h0wpwn, h0wpwn blog, 安全, Pwn, Pentest, Web'
 url: '' # your host
 
 # if you don't need baseurl, you should leave this value blank.
@@ -11,7 +11,7 @@ baseurl: ''
 nav:
   home: '/'
   tags: '/tags.html'
-  about: 'https://howpwn.tw'
+  about: 'https://h0wpwn.tw'
 
 # Footer
 footer:
