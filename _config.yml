@@ -52,6 +52,7 @@ postPatterns: 'circuitBoard'
 sns:
   facebook: '//fb.me/howpwn'
   github: '//github.com/finn79426'
+  linkedin: '//linkedin.com/in/富翔-曹-971a13139/'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
